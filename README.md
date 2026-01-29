@@ -44,15 +44,16 @@
 
 ## Skills
 
-- Kotlin, Java 21
-- Spring Framework (Spring Boot 3, Spring MVC, Spring Webflux, Spring Batch), Kotlin Coroutine
-- MariaDB, MongoDB, Redis, JPA, QueryDSL
-- Junit5, Spring Test
+- Kotlin, Java (JDK 25)
+- Spring Framework (Spring Boot 3, Spring MVC/Webflux, Spring Batch)
+- Kotlin Coroutine
+- MySQL 8, MongoDB 8, Redis 7
+- Junit 5, Spring Test, Docker-compose
 - Gradle
-- Nginx, Fluentbit
+- Nginx, Fluentbit, Jenkins
 - AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
 - Git, GitHub Actions, SonarQube
-- CloudWatch, Sentry, Pinpoint, Jenkins, Slack
+- CloudWatch, Sentry, Pinpoint, Slack
 
 ## Contacts
 
