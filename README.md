@@ -45,7 +45,7 @@
 ## Skills
 
 - Kotlin, Java (JDK 25)
-- Spring Framework (Spring Boot 3, Spring MVC/Webflux, Spring Batch)
+- Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch)
 - Kotlin Coroutine
 - MySQL 8, MongoDB 8, Redis 7
 - Junit 5, Spring Test, Docker-compose
