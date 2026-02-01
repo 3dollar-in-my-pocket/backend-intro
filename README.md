@@ -48,7 +48,7 @@
 - Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch)
 - Kotlin Coroutine
 - MySQL 8, MongoDB 8, Redis 7
-- Junit 5, Spring Test, Docker-compose
+- JUnit, Spring Test, Docker-compose
 - Gradle
 - Nginx, Fluentbit, Jenkins
 - AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
