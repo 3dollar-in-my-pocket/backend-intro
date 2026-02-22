@@ -5,10 +5,6 @@
 ![TestCoverage](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/coverage.svg)
 ![Test Report](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/badge.svg)
 
-## 서비스 운영기 (Blog)
-
-- https://willseungh0.tistory.com/242
-
 ## Introduction
 
 전국 붕어빵 등 길거리 음식을 파는 곳을 알려주는 [**가슴속 3천원**](https://intro.threedollars.co.kr/)
@@ -47,7 +43,7 @@
 - Kotlin, Java (JDK 25)
 - Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch)
 - Kotlin Coroutine
-- MySQL 8, MongoDB 8, Redis 7
+- MySQL, MongoDB, Redis
 - JUnit, Spring Test, Docker-compose
 - Gradle
 - Nginx, Fluentbit, Jenkins
