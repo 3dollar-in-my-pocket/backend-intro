@@ -34,21 +34,14 @@
 
 ![service-diagram](docs/service-diagram-20240530.png)
 
-## Architecture
-
-![img.png](docs/3dollars-architecture-20240530.png)
-
 ## Skills
 
 - Kotlin, Java (JDK 25)
-- Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch)
-- Kotlin Coroutine
-- MySQL, MongoDB, Redis
+- Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch), Kotlin Coroutine, Gradle
+- MySQL, MongoDB, Redis, BigQuery
 - JUnit, Spring Test, Docker-compose
-- Gradle
-- Nginx, Fluentbit, Jenkins
-- AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
-- Git, GitHub Actions, SonarQube
+- Nginx, Fluent-bit, Jenkins (Scheduler), AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
+- GitHub Actions, SonarQube
 - CloudWatch, Sentry, Pinpoint, Slack
 
 ## Contacts
