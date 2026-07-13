@@ -40,9 +40,9 @@
 - Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch), Kotlin Coroutine, Gradle
 - MySQL, MongoDB, Redis, BigQuery
 - JUnit, Spring Test, Docker-compose
-- Nginx, Fluent-bit, Jenkins (Scheduler), AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
-- GitHub Actions, SonarQube
-- CloudWatch, Sentry, Pinpoint, Slack
+- Nginx, Fluent-bit, Jenkins, AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
+- GitHub Actions, Sonarqube
+- CloudWatch, Sentry, Prometheus, Grafana, Discord
 
 ## Contacts
 
