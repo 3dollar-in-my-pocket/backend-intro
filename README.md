@@ -30,10 +30,6 @@
     <img src="docs/appstore.png" width="40%" alt="IOS 인증샷">
 </p>
 
-## Service Diagram
-
-![service-diagram](docs/service-diagram-20240530.png)
-
 ## Skills
 
 - Kotlin, Java (JDK 25)
