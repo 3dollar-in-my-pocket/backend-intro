@@ -41,6 +41,7 @@
 - Spring Ecosystem (Spring Boot 4, Spring MVC/Webflux, Spring Batch), Kotlin Coroutine, Gradle
 - MySQL, MongoDB, Redis, BigQuery
 - Nginx, Fluent-bit, Jenkins, AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
+- JUnit, TestContainers
 - GitHub Actions
 - Prometheus & Grafana, Tempo, CloudWatch, Sentry, Discord
 
