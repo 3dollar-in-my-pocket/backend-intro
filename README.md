@@ -30,15 +30,19 @@
     <img src="docs/appstore.png" width="40%" alt="IOS 인증샷">
 </p>
 
+## Architecture
+
+<img width="3880" height="2160" alt="image" src="https://github.com/user-attachments/assets/926cd66c-fbed-4b78-91c1-1561ae9821ed" />
+
+
 ## Skills
 
 - Kotlin, Java (JDK 25)
-- Spring Framework (Spring Boot 4, Spring MVC/Webflux, Spring Batch), Kotlin Coroutine, Gradle
+- Spring Ecosystem (Spring Boot 4, Spring MVC/Webflux, Spring Batch), Kotlin Coroutine, Gradle
 - MySQL, MongoDB, Redis, BigQuery
-- JUnit, Spring Test, Docker-compose
 - Nginx, Fluent-bit, Jenkins, AWS Service (ECS, RDS, Elastic Cache, EC2, S3, SQS)
-- GitHub Actions, Sonarqube
-- CloudWatch, Sentry, Prometheus, Grafana, Discord
+- GitHub Actions
+- Prometheus & Grafana, Tempo, CloudWatch, Sentry, Discord
 
 ## Contacts
 
