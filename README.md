@@ -1,15 +1,15 @@
 # 가슴속 삼천원 백엔드
 
-> 유저 & 사장님 & 알림 서비스로, 레포는 현재 비공개로 운영중입니다.
+> 실 레포는 현재 비공개로 운영중입니다.
 
 ![TestCoverage](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/coverage.svg)
 ![Test Report](https://gist.githubusercontent.com/seungh0/4f98543dcd97323edfbf8763930c5c1f/raw/badge.svg)
 
 ## Introduction
 
-전국 붕어빵 등 길거리 음식을 파는 곳을 알려주는 [**가슴속 3천원**](https://intro.threedollars.co.kr/)
+전국 길거리 음식을 파는 곳을 알려주는 [**가슴속 3천원**](https://intro.threedollars.co.kr/)
 
-**"가슴 속 3천원"** 은 겨울철 우리 가슴속에 지니고 다니는 3천원을 털어가는 붕어빵, 문어빵, 계란빵, 호떡 등을 파는 곳을 포함해 길거리 음식점들을 알려주는 사용자 기반 서비스입니다.
+**"가슴 속 3천원"** 은 겨울철 우리 가슴속에 지니고 다니는 3천원을 털어가는 붕어빵, 타코야키, 계란빵, 호떡 등을 파는 곳을 포함해 길거리 음식점들을 알려주는 사용자 기반 서비스입니다.
 
 - 회원 수: 120만+, 월간 활성 유저 (MAU): 20만명의 사용자분들이 사용하고 계십니다.
 
