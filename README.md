@@ -32,7 +32,7 @@
 
 ## Architecture
 
-<img width="3880" height="2160" alt="3dollars" src="https://github.com/user-attachments/assets/4dbb6926-b3e7-4127-992b-381aed927b5d" />
+<img width="3880" height="2160" alt="3dollars" src="https://github.com/user-attachments/assets/b90e4b28-c3d3-4e06-9c8a-be85d169f4a5" />
 
 ## Skills
 
